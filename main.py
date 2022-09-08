@@ -1,4 +1,4 @@
 # Contador
 
 for i in range(10):
-    print(i)
+    print(f'Numero: {i}')
